@@ -1,5 +1,11 @@
 # dkeeper
 
+Developed a secured decentralised note keeping web application using Definity
+ICP blockchain technology. Application front-end is built using React.js and it uses Motoko smart contracts
+for back-end logic and orthogonal persistence.
+
+# Start Up Guide
+
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
 To learn more before you start working with dkeeper, see the following documentation available online:
